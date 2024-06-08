@@ -7,7 +7,7 @@ DevKnight
 Hello! I'm PraveenKumar, a fresher pursuing a Master of Computer Applications (MCA) with a strong interest in web development and the IT industry. I'm currently learning the latest technologies, including DevOps, cloud computing, and AI/machine learning. My skills include full-stack web development with HTML, CSS, JavaScript, React, Angular, Node.js, and databases like MongoDB and MySQL. I'm eager to contribute to innovative projects and connect with others for collaboration and mentorship. Let's build something amazing together! Reach me on LinkedIn "https://www.linkedin.com/in/mpraveenkumar002/" or email "mdpraveen002@gmail.com".
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Praveen Portfolio](http://https://praveen-devknight.github.io/Portfolio-01)
+* 🖥️  See my portfolio at [Praveen Portfolio](https://praveen-devknight.github.io/Portfolio-01)
 * ✉️  You can contact me at [mdpraveen002@gmail.com](mailto:mdpraveen002@gmail.com)
 * 🧠  I'm learning Full Stack Web Developer
 
