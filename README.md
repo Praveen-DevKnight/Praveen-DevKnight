@@ -3,13 +3,20 @@ Hi 👋 My name is PraveenKumar
 
 DevKnight
 ---------
+  👋 Hello! I'm PraveenKumar M, an aspiring QA Automation Engineer pursuing my Master of Computer Applications (MCA).
+I have hands-on experience in Manual, Automation, and API Testing, with practical exposure to Selenium WebDriver (Java), TestNG, Postman, Rest Assured, and SQL.
 
-Hello! I'm PraveenKumar, a fresher pursuing a Master of Computer Applications (MCA) with a strong interest in web development and the IT industry. I'm currently learning the latest technologies, including Data Analyst, Data Science, and AI/machine learning. My skills include Front End development with HTML, CSS and databases like MongoDB and MySQL. I'm eager to contribute to innovative projects and connect with others for collaboration and mentorship. Let's build something amazing together! Reach me on LinkedIn "linkedin.com/in/mpraveenkumar002/" or email "mdpraveen002@gmail.com".
+I enjoy ensuring software quality through effective test design, automation, and defect analysis. My projects include end-to-end testing of web applications, API validation, and data-driven frameworks.
+
+💡 Tech Skills: Selenium WebDriver, TestNG, Postman, Rest Assured, Java, SQL, MySQL, ETL Testing, Jenkins (Basic)
+🚀 Currently Exploring: Automation Frameworks, API Testing, and CI/CD tools
+📫 Connect with me: LinkedIn
+ | ✉️ mdpraveen0207@gmail.com
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Praveen Portfolio](https://praveen-devknight.github.io/portfolio)
 * ✉️  You can contact me at [mdpraveen002@gmail.com](mailto:mdpraveen002@gmail.com)
-* 🧠  I'm learning Data Science
+* 🧠  I'm a Automation Engineer
 
 ### Skills
 
